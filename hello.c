@@ -1,4 +1,4 @@
 #include<stdio.h>
 void main(){
-printf("hellllllllllllll o\n");
+printf("hello eieigumo\n");
 }
